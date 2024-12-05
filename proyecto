@@ -1,0 +1,6 @@
+📂 proyecto/
+ ┣ 📜 index.html
+ ┣ 📂 css/
+ ┃ ┗ 📜 styles.css
+ ┗ 📂 js/
+   ┗ 📜 app.js
